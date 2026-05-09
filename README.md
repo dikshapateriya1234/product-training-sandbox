@@ -52,3 +52,11 @@ Branching lets multiple people work on **separate features simultaneously** with
 ---
 
 *This sandbox is part of the Product Associate onboarding program.*
+---
+
+## Active Features In Development
+
+### Issue #1 — Contact Us Button
+- **Branch:** `issue-1-contact-button`
+- **Status:** 🟡 In Progress
+- **Description:** Adding a Contact Us button to the footer for easier user access to support.
